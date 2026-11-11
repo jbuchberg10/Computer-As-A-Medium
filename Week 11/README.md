@@ -5,4 +5,4 @@
 - Kathryn P: Task 2, Trap (Program.cs)
   - Task 2 Video: https://youtu.be/Bj1_LsjdWJk
 - Luke M: Task 3, Mana Input System (mmanaInputHandler.cs)
-  - Task 3 Video: https://www.youtube.com/watch?v=enDGidX47_8
+  - Task 3 Video: https://www.youtube.com/watch?v=inT_Am5-aX4
